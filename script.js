@@ -4,7 +4,7 @@ const panels = document.querySelectorAll('.panel')
 //const panels = document.querySelector('.panel')
 //const panels = document.getElementById('panel')
 //const panels = document.getElementsByClassName('.panel')
-
+//algo nuevo
 
 
 panels.forEach((panel) => {
